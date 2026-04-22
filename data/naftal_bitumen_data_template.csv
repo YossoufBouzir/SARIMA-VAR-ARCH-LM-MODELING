@@ -1,0 +1,8 @@
+# NAFTAL Bitumen Sales Data Template
+# Replace dummy values with actual data from NAFTAL records
+# date: Monthly (YYYY-MM-DD, first of month)
+# BTM : Standard Bitumen sales (metric tons)
+# BTMP: Pure Bitumen sales (metric tons)
+date,BTM,BTMP
+2002-01-01,18500,16200
+2002-02-01,19100,16800
