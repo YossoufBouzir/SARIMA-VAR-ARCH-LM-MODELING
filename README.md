@@ -231,14 +231,7 @@ See `requirements.txt` for full list.
 If you use this code for your research, please cite:
 
 ```bibtex
-@article{yourname2026bitumen,
-  title={Modeling and Forecasting Bitumen Sales in Algeria Using SARIMA, VAR, and ARCH-LM Volatility Tests},
-  author={Your Name and Co-Authors},
-  journal={Journal Name},
-  year={2026},
-  volume={XX},
-  pages={YYY--ZZZ}
-}
+@article{Bouzir_Baranon_Suliman Ishag_Ofori_Bekalo_2026, title={Modeling and forecasting bitumen sales using univariate and multivariate time series approaches: a case study of Algeria’s NAFTAL corporation}, volume={17}, url={https://journals.lagh-univ.dz/index.php/djei/article/view/4666}, DOI={10.34118/djei.v17i2.4666}, abstractNote={&lt;p&gt;This study models and forecasts the NAFTAL Corporation’s bitumen sales in Algeria using univariate and multivariate time series methods. This method uses the Box-Jenkins method to identify, estimate, diagnostic and predict. ANOVA and ADF tests showed seasonal patterns and stationary data. The best univariate models for bitumen (BTM) and pure bitumen (BTMP) were found to be SARIMAX(2,2,1) and SARIMAX(0,1,4), respectively. No volatility clustering or ARCH effects were captured via ARCH-LM tests. VAR(2) model used to explain dynamic interactions over time. Granger causality tests detected a significant unidirectional effect between BTM and BTMP (p &amp;lt; 0.001 at lag 2). According to the forecast error variance decomposition (FEVD), BTM accounts for 29.44% of the 12-month forecast error variance for BTMP and 98.25% of its own variation. These findings emphasize how crucial it is to take into account the overall bitumen trends when estimating product demand.&lt;/p&#38;gt;}, number={2}, journal={Dirassat Journal Economic Issue}, author={Bouzir , Youssouf and Baranon , Mouhamadou Djima and Suliman Ishag, Mohamed Adam and Ofori, Michael Arthur and Bekalo , Daniel Biftu}, year={2026}, month={Jun.}, pages={45-60} }
 ```
 
 ---
